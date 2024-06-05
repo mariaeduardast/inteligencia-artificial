@@ -1,1 +1,1 @@
-# alurasegundotrimestre
+# intelig-ncia-artificial-A
